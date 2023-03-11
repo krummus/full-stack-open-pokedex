@@ -18,3 +18,5 @@ jobs:
         run: npm install
       - name: lint
         run: npm run eslint
+      - name: test
+        run: jest -- test/App.jest.spec.jsx test/PokemonList.jest.spec.jsx test/PokemonList.jest.spec.jsx
