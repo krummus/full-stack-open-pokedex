@@ -31,13 +31,13 @@ module.exports = {
         loaders: ['style-loader', 'css-loader'],
       }
     ],
-    'no-console': 0,
   },
   resolve: {
     extensions: ["*", ".js", ".jsx"],
   },
   devServer: {
     historyApiFallback: true,
+    port:5000,
   },
   plugins: [
     new HtmlWebPackPlugin({
