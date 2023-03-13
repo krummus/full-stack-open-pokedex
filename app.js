@@ -7,6 +7,8 @@ require('dotenv').config()
 const PORT = process.env.PORT || 5000
 
 app.get('/health', (req, res) => {
+  throw 'error...'
+  // eslint-disable-next-line no-unreachable
   res.send('ok')
 })
 
