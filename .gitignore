@@ -1,3 +1,4 @@
 dist/
 node_modules/
 cypress/videos/pokemontest.cy.js.mp4
+cypress/screenshots/pokemontest.cy.js/Pokedex -- ivysaur loads (failed).png

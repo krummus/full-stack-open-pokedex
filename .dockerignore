@@ -1,0 +1,886 @@
+# flyctl launch added from Ex_1102\.gitignore
+Ex_1102\**\dist
+Ex_1102\**\node_modules
+Ex_1102\**\cypress\videos\pokemontest.cy.js.mp4
+Ex_1102\**\cypress\screenshots\pokemontest.cy.js\Pokedex -- ivysaur loads (failed).png
+
+# flyctl launch added from Ex_307_308\.gitignore
+Ex_307_308\**\node_modules
+
+# flyctl launch added from Ex_312\.gitignore
+Ex_312\**\node_modules
+
+# flyctl launch added from Ex_313_314\.gitignore
+Ex_313_314\**\node_modules
+
+# flyctl launch added from Ex_315_318\.gitignore
+Ex_315_318\**\node_modules
+
+# flyctl launch added from Ex_319_321\.gitignore
+Ex_319_321\**\node_modules
+
+# flyctl launch added from Ex_322_322\.gitignore
+Ex_322_322\**\node_modules
+
+# flyctl launch added from Ex_401_402\.gitignore
+Ex_401_402\**\node_modules
+
+# flyctl launch added from Ex_403_407\.gitignore
+Ex_403_407\**\node_modules
+
+# flyctl launch added from Ex_408_412\.gitignore
+Ex_408_412\**\node_modules
+
+# flyctl launch added from Ex_415_423\.gitignore
+Ex_415_423\**\node_modules
+
+# flyctl launch added from Ex_501_504\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Ex_501_504\node_modules
+Ex_501_504\.pnp
+Ex_501_504\**\.pnp.js
+
+# testing
+Ex_501_504\coverage
+
+# production
+Ex_501_504\build
+
+# misc
+Ex_501_504\**\.DS_Store
+Ex_501_504\**\.env.local
+Ex_501_504\**\.env.development.local
+Ex_501_504\**\.env.test.local
+Ex_501_504\**\.env.production.local
+
+Ex_501_504\**\npm-debug.log*
+Ex_501_504\**\yarn-debug.log*
+Ex_501_504\**\yarn-error.log*
+
+# flyctl launch added from Ex_501_504\bloglist-frontend\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Ex_501_504\bloglist-frontend\node_modules
+Ex_501_504\bloglist-frontend\.pnp
+Ex_501_504\bloglist-frontend\**\.pnp.js
+
+# testing
+Ex_501_504\bloglist-frontend\coverage
+
+# production
+Ex_501_504\bloglist-frontend\build
+
+# misc
+Ex_501_504\bloglist-frontend\**\.DS_Store
+Ex_501_504\bloglist-frontend\**\.env.local
+Ex_501_504\bloglist-frontend\**\.env.development.local
+Ex_501_504\bloglist-frontend\**\.env.test.local
+Ex_501_504\bloglist-frontend\**\.env.production.local
+
+Ex_501_504\bloglist-frontend\**\npm-debug.log*
+Ex_501_504\bloglist-frontend\**\yarn-debug.log*
+Ex_501_504\bloglist-frontend\**\yarn-error.log*
+
+# flyctl launch added from Ex_601_602\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Ex_601_602\node_modules
+Ex_601_602\.pnp
+Ex_601_602\**\.pnp.js
+
+# testing
+Ex_601_602\coverage
+
+# production
+Ex_601_602\build
+
+# misc
+Ex_601_602\**\.DS_Store
+Ex_601_602\**\.env.local
+Ex_601_602\**\.env.development.local
+Ex_601_602\**\.env.test.local
+Ex_601_602\**\.env.production.local
+
+Ex_601_602\**\npm-debug.log*
+Ex_601_602\**\yarn-debug.log*
+Ex_601_602\**\yarn-error.log*
+
+# flyctl launch added from Ex_603_608\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Ex_603_608\node_modules
+Ex_603_608\.pnp
+Ex_603_608\**\.pnp.js
+
+# testing
+Ex_603_608\coverage
+
+# production
+Ex_603_608\build
+
+# misc
+Ex_603_608\**\.DS_Store
+Ex_603_608\**\.env.local
+Ex_603_608\**\.env.development.local
+Ex_603_608\**\.env.test.local
+Ex_603_608\**\.env.production.local
+
+Ex_603_608\**\npm-debug.log*
+Ex_603_608\**\yarn-debug.log*
+Ex_603_608\**\yarn-error.log*
+
+# flyctl launch added from Ex_609_612\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Ex_609_612\node_modules
+Ex_609_612\.pnp
+Ex_609_612\**\.pnp.js
+
+# testing
+Ex_609_612\coverage
+
+# production
+Ex_609_612\build
+
+# misc
+Ex_609_612\**\.DS_Store
+Ex_609_612\**\.env.local
+Ex_609_612\**\.env.development.local
+Ex_609_612\**\.env.test.local
+Ex_609_612\**\.env.production.local
+
+Ex_609_612\**\npm-debug.log*
+Ex_609_612\**\yarn-debug.log*
+Ex_609_612\**\yarn-error.log*
+
+# flyctl launch added from Ex_613_614\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Ex_613_614\node_modules
+Ex_613_614\.pnp
+Ex_613_614\**\.pnp.js
+
+# testing
+Ex_613_614\coverage
+
+# production
+Ex_613_614\build
+
+# misc
+Ex_613_614\**\.DS_Store
+Ex_613_614\**\.env.local
+Ex_613_614\**\.env.development.local
+Ex_613_614\**\.env.test.local
+Ex_613_614\**\.env.production.local
+
+Ex_613_614\**\npm-debug.log*
+Ex_613_614\**\yarn-debug.log*
+Ex_613_614\**\yarn-error.log*
+
+# flyctl launch added from Ex_615_618\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Ex_615_618\node_modules
+Ex_615_618\.pnp
+Ex_615_618\**\.pnp.js
+
+# testing
+Ex_615_618\coverage
+
+# production
+Ex_615_618\build
+
+# misc
+Ex_615_618\**\.DS_Store
+Ex_615_618\**\.env.local
+Ex_615_618\**\.env.development.local
+Ex_615_618\**\.env.test.local
+Ex_615_618\**\.env.production.local
+
+Ex_615_618\**\npm-debug.log*
+Ex_615_618\**\yarn-debug.log*
+Ex_615_618\**\yarn-error.log*
+
+# flyctl launch added from Ex_701_703\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Ex_701_703\node_modules
+Ex_701_703\.pnp
+Ex_701_703\**\.pnp.js
+
+# testing
+Ex_701_703\coverage
+
+# production
+Ex_701_703\build
+
+# misc
+Ex_701_703\**\.DS_Store
+Ex_701_703\**\.env.local
+Ex_701_703\**\.env.development.local
+Ex_701_703\**\.env.test.local
+Ex_701_703\**\.env.production.local
+
+Ex_701_703\**\npm-debug.log*
+Ex_701_703\**\yarn-debug.log*
+Ex_701_703\**\yarn-error.log*
+
+# flyctl launch added from anaconda3\pkgs\conda-4.10.1-py37haa95532_1\info\test\tests\conda_env\support\advanced-pip\.gitignore
+anaconda3\pkgs\conda-4.10.1-py37haa95532_1\info\test\tests\conda_env\support\advanced-pip\**\src
+
+# flyctl launch added from anaconda3\pkgs\conda-4.10.1-py37haa95532_1\info\test\tests\integration\proxy\.gitignore
+anaconda3\pkgs\conda-4.10.1-py37haa95532_1\info\test\tests\integration\proxy\**\squid_log
+anaconda3\pkgs\conda-4.10.1-py37haa95532_1\info\test\tests\integration\proxy\**\temp
+
+# flyctl launch added from anaconda3\pkgs\conda-4.10.3-py37haa95532_0\info\test\tests\conda_env\support\advanced-pip\.gitignore
+anaconda3\pkgs\conda-4.10.3-py37haa95532_0\info\test\tests\conda_env\support\advanced-pip\**\src
+
+# flyctl launch added from anaconda3\pkgs\conda-4.10.3-py37haa95532_0\info\test\tests\integration\proxy\.gitignore
+anaconda3\pkgs\conda-4.10.3-py37haa95532_0\info\test\tests\integration\proxy\**\squid_log
+anaconda3\pkgs\conda-4.10.3-py37haa95532_0\info\test\tests\integration\proxy\**\temp
+
+# flyctl launch added from anaconda3\pkgs\conda-4.8.2-py37_0\info\test\tests\conda_env\support\advanced-pip\.gitignore
+anaconda3\pkgs\conda-4.8.2-py37_0\info\test\tests\conda_env\support\advanced-pip\**\src
+
+# flyctl launch added from anaconda3\pkgs\conda-4.8.2-py37_0\info\test\tests\integration\proxy\.gitignore
+anaconda3\pkgs\conda-4.8.2-py37_0\info\test\tests\integration\proxy\**\squid_log
+anaconda3\pkgs\conda-4.8.2-py37_0\info\test\tests\integration\proxy\**\temp
+
+# flyctl launch added from anaconda3\pkgs\conda-4.9.2-py37haa95532_0\info\test\tests\conda_env\support\advanced-pip\.gitignore
+anaconda3\pkgs\conda-4.9.2-py37haa95532_0\info\test\tests\conda_env\support\advanced-pip\**\src
+
+# flyctl launch added from anaconda3\pkgs\conda-4.9.2-py37haa95532_0\info\test\tests\integration\proxy\.gitignore
+anaconda3\pkgs\conda-4.9.2-py37haa95532_0\info\test\tests\integration\proxy\**\squid_log
+anaconda3\pkgs\conda-4.9.2-py37haa95532_0\info\test\tests\integration\proxy\**\temp
+
+# flyctl launch added from anaconda3\pkgs\pywavelets-1.1.1-py37he774522_0\info\recipe\.gitignore
+anaconda3\pkgs\pywavelets-1.1.1-py37he774522_0\info\recipe\**\*.pyc
+
+anaconda3\pkgs\pywavelets-1.1.1-py37he774522_0\info\recipe\**\build_artifacts
+
+# flyctl launch added from anaconda3\pkgs\pywavelets-1.1.1-py37he774522_2\info\recipe\.gitignore
+anaconda3\pkgs\pywavelets-1.1.1-py37he774522_2\info\recipe\**\*.pyc
+
+anaconda3\pkgs\pywavelets-1.1.1-py37he774522_2\info\recipe\**\build_artifacts
+
+# flyctl launch added from anaconda3\pkgs\scipy-1.4.1-py37h9439919_0\info\recipe\.pytest_cache\.gitignore
+# Created by pytest automatically.
+anaconda3\pkgs\scipy-1.4.1-py37h9439919_0\info\recipe\.pytest_cache\**\*
+
+# flyctl launch added from anaconda3\pkgs\xlsxwriter-1.2.7-py_0\info\recipe\.gitignore
+anaconda3\pkgs\xlsxwriter-1.2.7-py_0\info\recipe\**\*.pyc
+
+anaconda3\pkgs\xlsxwriter-1.2.7-py_0\info\recipe\**\build_artifacts
+
+# flyctl launch added from anecdotes\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+anecdotes\node_modules
+anecdotes\.pnp
+anecdotes\**\.pnp.js
+
+# testing
+anecdotes\coverage
+
+# production
+anecdotes\build
+
+# misc
+anecdotes\**\.DS_Store
+anecdotes\**\.env.local
+anecdotes\**\.env.development.local
+anecdotes\**\.env.test.local
+anecdotes\**\.env.production.local
+
+anecdotes\**\npm-debug.log*
+anecdotes\**\yarn-debug.log*
+anecdotes\**\yarn-error.log*
+
+# flyctl launch added from countries\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+countries\node_modules
+countries\.pnp
+countries\**\.pnp.js
+
+# testing
+countries\coverage
+
+# production
+countries\build
+
+# misc
+countries\**\.DS_Store
+countries\**\.env.local
+countries\**\.env.development.local
+countries\**\.env.test.local
+countries\**\.env.production.local
+
+countries\**\npm-debug.log*
+countries\**\yarn-debug.log*
+countries\**\yarn-error.log*
+
+# flyctl launch added from courseinfo\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+courseinfo\node_modules
+courseinfo\.pnp
+courseinfo\**\.pnp.js
+
+# testing
+courseinfo\coverage
+
+# production
+courseinfo\build
+
+# misc
+courseinfo\**\.DS_Store
+courseinfo\**\.env.local
+courseinfo\**\.env.development.local
+courseinfo\**\.env.test.local
+courseinfo\**\.env.production.local
+
+courseinfo\**\npm-debug.log*
+courseinfo\**\yarn-debug.log*
+courseinfo\**\yarn-error.log*
+
+# flyctl launch added from courseinfo2\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+courseinfo2\node_modules
+courseinfo2\.pnp
+courseinfo2\**\.pnp.js
+
+# testing
+courseinfo2\coverage
+
+# production
+courseinfo2\build
+
+# misc
+courseinfo2\**\.DS_Store
+courseinfo2\**\.env.local
+courseinfo2\**\.env.development.local
+courseinfo2\**\.env.test.local
+courseinfo2\**\.env.production.local
+
+courseinfo2\**\npm-debug.log*
+courseinfo2\**\yarn-debug.log*
+courseinfo2\**\yarn-error.log*
+
+# flyctl launch added from ex_914_919\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+ex_914_919\node_modules
+ex_914_919\.pnp
+ex_914_919\**\.pnp.js
+
+# testing
+ex_914_919\coverage
+
+# production
+ex_914_919\build
+
+# misc
+ex_914_919\**\.DS_Store
+ex_914_919\**\.env.local
+ex_914_919\**\.env.development.local
+ex_914_919\**\.env.test.local
+ex_914_919\**\.env.production.local
+
+ex_914_919\**\npm-debug.log*
+ex_914_919\**\yarn-debug.log*
+ex_914_919\**\yarn-error.log*
+
+# flyctl launch added from ex_915\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+ex_915\node_modules
+ex_915\.pnp
+ex_915\**\.pnp.js
+
+# testing
+ex_915\coverage
+
+# production
+ex_915\build
+
+# misc
+ex_915\**\.DS_Store
+ex_915\**\.env.local
+ex_915\**\.env.development.local
+ex_915\**\.env.test.local
+ex_915\**\.env.production.local
+
+ex_915\**\npm-debug.log*
+ex_915\**\yarn-debug.log*
+ex_915\**\yarn-error.log*
+
+# flyctl launch added from ex_916_919\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+ex_916_919\node_modules
+ex_916_919\.pnp
+ex_916_919\**\.pnp.js
+
+# testing
+ex_916_919\coverage
+
+# production
+ex_916_919\build
+
+# misc
+ex_916_919\**\.DS_Store
+ex_916_919\**\.env.local
+ex_916_919\**\.env.development.local
+ex_916_919\**\.env.test.local
+ex_916_919\**\.env.production.local
+
+ex_916_919\**\npm-debug.log*
+ex_916_919\**\yarn-debug.log*
+ex_916_919\**\yarn-error.log*
+
+# flyctl launch added from ex_916_919\flight-diary-main\flight-diary-main\.gitignore
+ex_916_919\flight-diary-main\flight-diary-main\**\node_modules
+ex_916_919\flight-diary-main\flight-diary-main\**\build
+
+# flyctl launch added from flight-diary-main\.gitignore
+flight-diary-main\**\node_modules
+flight-diary-main\**\build
+
+# flyctl launch added from full-stack-open-pokedex-master\full-stack-open-pokedex-master\.gitignore
+full-stack-open-pokedex-master\full-stack-open-pokedex-master\**\dist
+full-stack-open-pokedex-master\full-stack-open-pokedex-master\**\node_modules
+
+# flyctl launch added from node-js-getting-started\.gitignore
+# Node build artifacts
+node-js-getting-started\**\node_modules
+node-js-getting-started\**\npm-debug.log
+
+# Local development
+node-js-getting-started\**\*.env
+node-js-getting-started\**\*.dev
+node-js-getting-started\**\.DS_Store
+
+# Docker
+node-js-getting-started\**\Dockerfile
+node-js-getting-started\**\docker-compose.yml
+
+# flyctl launch added from p2dpbook\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+p2dpbook\node_modules
+p2dpbook\.pnp
+p2dpbook\**\.pnp.js
+
+# testing
+p2dpbook\coverage
+
+# production
+p2dpbook\build
+
+# misc
+p2dpbook\**\.DS_Store
+p2dpbook\**\.env.local
+p2dpbook\**\.env.development.local
+p2dpbook\**\.env.test.local
+p2dpbook\**\.env.production.local
+
+p2dpbook\**\npm-debug.log*
+p2dpbook\**\yarn-debug.log*
+p2dpbook\**\yarn-error.log*
+
+# flyctl launch added from p2epbook\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+p2epbook\node_modules
+p2epbook\.pnp
+p2epbook\**\.pnp.js
+
+# testing
+p2epbook\coverage
+
+# production
+p2epbook\build
+
+# misc
+p2epbook\**\.DS_Store
+p2epbook\**\.env.local
+p2epbook\**\.env.development.local
+p2epbook\**\.env.test.local
+p2epbook\**\.env.production.local
+
+p2epbook\**\npm-debug.log*
+p2epbook\**\yarn-debug.log*
+p2epbook\**\yarn-error.log*
+
+# flyctl launch added from part1\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+part1\node_modules
+part1\.pnp
+part1\**\.pnp.js
+
+# testing
+part1\coverage
+
+# production
+part1\build
+
+# misc
+part1\**\.DS_Store
+part1\**\.env.local
+part1\**\.env.development.local
+part1\**\.env.test.local
+part1\**\.env.production.local
+
+part1\**\npm-debug.log*
+part1\**\yarn-debug.log*
+part1\**\yarn-error.log*
+
+# flyctl launch added from part2c\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+part2c\node_modules
+part2c\.pnp
+part2c\**\.pnp.js
+
+# testing
+part2c\coverage
+
+# production
+part2c\build
+
+# misc
+part2c\**\.DS_Store
+part2c\**\.env.local
+part2c\**\.env.development.local
+part2c\**\.env.test.local
+part2c\**\.env.production.local
+
+part2c\**\npm-debug.log*
+part2c\**\yarn-debug.log*
+part2c\**\yarn-error.log*
+
+# flyctl launch added from part2d\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+part2d\node_modules
+part2d\.pnp
+part2d\**\.pnp.js
+
+# testing
+part2d\coverage
+
+# production
+part2d\build
+
+# misc
+part2d\**\.DS_Store
+part2d\**\.env.local
+part2d\**\.env.development.local
+part2d\**\.env.test.local
+part2d\**\.env.production.local
+
+part2d\**\npm-debug.log*
+part2d\**\yarn-debug.log*
+part2d\**\yarn-error.log*
+
+# flyctl launch added from part2d1\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+part2d1\node_modules
+part2d1\.pnp
+part2d1\**\.pnp.js
+
+# testing
+part2d1\coverage
+
+# production
+part2d1\build
+
+# misc
+part2d1\**\.DS_Store
+part2d1\**\.env.local
+part2d1\**\.env.development.local
+part2d1\**\.env.test.local
+part2d1\**\.env.production.local
+
+part2d1\**\npm-debug.log*
+part2d1\**\yarn-debug.log*
+part2d1\**\yarn-error.log*
+
+# flyctl launch added from part2e\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+part2e\node_modules
+part2e\.pnp
+part2e\**\.pnp.js
+
+# testing
+part2e\coverage
+
+# production
+part2e\build
+
+# misc
+part2e\**\.DS_Store
+part2e\**\.env.local
+part2e\**\.env.development.local
+part2e\**\.env.test.local
+part2e\**\.env.production.local
+
+part2e\**\npm-debug.log*
+part2e\**\yarn-debug.log*
+part2e\**\yarn-error.log*
+
+# flyctl launch added from part3a\.gitignore
+part3a\**\node_modules
+
+# flyctl launch added from part3c\.gitignore
+part3c\**\node_modules
+part3c\**\.env
+
+# flyctl launch added from part4a\.gitignore
+part4a\**\node_modules
+part4a\**\.env
+
+# flyctl launch added from part4b\.gitignore
+part4b\**\node_modules
+part4b\**\.env
+
+# flyctl launch added from part4c\.gitignore
+part4c\**\node_modules
+part4c\**\.env
+
+# flyctl launch added from part4c\part3-notes-backend-part4-8\part3-notes-backend-part4-8\.gitignore
+part4c\part3-notes-backend-part4-8\part3-notes-backend-part4-8\**\node_modules
+part4c\part3-notes-backend-part4-8\part3-notes-backend-part4-8\**\.env
+
+# flyctl launch added from part4d\.gitignore
+part4d\**\node_modules
+part4d\**\.env
+
+# flyctl launch added from part5a\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+part5a\node_modules
+part5a\.pnp
+part5a\**\.pnp.js
+
+# testing
+part5a\coverage
+
+# production
+part5a\build
+
+# misc
+part5a\**\.DS_Store
+part5a\**\.env.local
+part5a\**\.env.development.local
+part5a\**\.env.test.local
+part5a\**\.env.production.local
+
+part5a\**\npm-debug.log*
+part5a\**\yarn-debug.log*
+part5a\**\yarn-error.log*
+
+# flyctl launch added from part6a\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+part6a\node_modules
+part6a\.pnp
+part6a\**\.pnp.js
+
+# testing
+part6a\coverage
+
+# production
+part6a\build
+
+# misc
+part6a\**\.DS_Store
+part6a\**\.env.local
+part6a\**\.env.development.local
+part6a\**\.env.test.local
+part6a\**\.env.production.local
+
+part6a\**\npm-debug.log*
+part6a\**\yarn-debug.log*
+part6a\**\yarn-error.log*
+
+# flyctl launch added from patientor\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+patientor\node_modules
+patientor\.pnp
+patientor\**\.pnp.js
+
+# testing
+patientor\coverage
+
+# production
+patientor\build
+
+# misc
+patientor\**\.DS_Store
+patientor\**\.env.local
+patientor\**\.env.development.local
+patientor\**\.env.test.local
+patientor\**\.env.production.local
+
+patientor\**\npm-debug.log*
+patientor\**\yarn-debug.log*
+patientor\**\yarn-error.log*
+
+# flyctl launch added from phonebook\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+phonebook\node_modules
+phonebook\.pnp
+phonebook\**\.pnp.js
+
+# testing
+phonebook\coverage
+
+# production
+phonebook\build
+
+# misc
+phonebook\**\.DS_Store
+phonebook\**\.env.local
+phonebook\**\.env.development.local
+phonebook\**\.env.test.local
+phonebook\**\.env.production.local
+
+phonebook\**\npm-debug.log*
+phonebook\**\yarn-debug.log*
+phonebook\**\yarn-error.log*
+
+# flyctl launch added from sswg\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+sswg\node_modules
+sswg\.pnp
+sswg\**\.pnp.js
+
+# testing
+sswg\coverage
+
+# production
+sswg\build
+
+# misc
+sswg\**\.DS_Store
+sswg\**\.env.local
+sswg\**\.env.development.local
+sswg\**\.env.test.local
+sswg\**\.env.production.local
+
+sswg\**\npm-debug.log*
+sswg\**\yarn-debug.log*
+sswg\**\yarn-error.log*
+
+# flyctl launch added from sswg-1\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+sswg-1\node_modules
+sswg-1\.pnp
+sswg-1\**\.pnp.js
+
+# testing
+sswg-1\coverage
+
+# production
+sswg-1\build
+
+# misc
+sswg-1\**\.DS_Store
+sswg-1\**\.env.local
+sswg-1\**\.env.development.local
+sswg-1\**\.env.test.local
+sswg-1\**\.env.production.local
+
+sswg-1\**\npm-debug.log*
+sswg-1\**\yarn-debug.log*
+sswg-1\**\yarn-error.log*
+
+# flyctl launch added from tests\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+tests\node_modules
+tests\.pnp
+tests\**\.pnp.js
+
+# testing
+tests\coverage
+
+# production
+tests\build
+
+# misc
+tests\**\.DS_Store
+tests\**\.env.local
+tests\**\.env.development.local
+tests\**\.env.test.local
+tests\**\.env.production.local
+
+tests\**\npm-debug.log*
+tests\**\yarn-debug.log*
+tests\**\yarn-error.log*
+
+# flyctl launch added from unicafe\.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+unicafe\node_modules
+unicafe\.pnp
+unicafe\**\.pnp.js
+
+# testing
+unicafe\coverage
+
+# production
+unicafe\build
+
+# misc
+unicafe\**\.DS_Store
+unicafe\**\.env.local
+unicafe\**\.env.development.local
+unicafe\**\.env.test.local
+unicafe\**\.env.production.local
+
+unicafe\**\npm-debug.log*
+unicafe\**\yarn-debug.log*
+unicafe\**\yarn-error.log*
+fly.toml
