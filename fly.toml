@@ -6,6 +6,15 @@ kill_timeout = 5
 primary_region = "syd"
 processes = []
 
+[deploy]
+  release_command = "npm run build"
+
+[processes]
+  app = "node app.js"
+
+[build]
+  builder = "heroku/buildpacks:20"
+
 [env]
 
 [experimental]
@@ -36,9 +45,3 @@ processes = []
     interval = "15s"
     restart_limit = 0
     timeout = "2s"
-
-[deploy]
-  release_command = "npm run build"
-
-[processes]
-  app = "node app.js"
