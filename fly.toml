@@ -11,12 +11,6 @@ processes = []
 [experimental]
   auto_rollback = true
 
-[deploy]
-  release_command = "npm run build"
-
-[processes]
-  app = "node app.js"
-
 [[services]]
   http_checks = []
   internal_port = 8080
@@ -43,3 +37,8 @@ processes = []
     restart_limit = 0
     timeout = "2s"
 
+[deploy]
+  release_command = "npm run build"
+
+[processes]
+  app = "node app.js"
